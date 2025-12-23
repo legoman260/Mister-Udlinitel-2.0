@@ -31,4 +31,5 @@ h2{
     background: linear-gradient(45.00deg, rgba(110, 58, 255, 0.726),rgba(2, 186, 219, 0.826) 100%);
     color: white;
     border-radius: 15px;
+    border: 0;
 }
