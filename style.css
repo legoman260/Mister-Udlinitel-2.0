@@ -140,21 +140,21 @@ h2{
     border-radius: 15px;
 }
 footer{
-    height: 20vh;
+    height: 180px;
     background: linear-gradient(45.00deg, rgba(110, 58, 255, 0.726),rgba(2, 186, 219, 0.826) 100%);;
-
 }
 h3{
     font-size: 40px;
     text-align: center;
     color: white;
-    padding-top: 5px;
+    padding-top: 20px;
 }
 h4{
-    margin-top: 52px;
+    margin-top: 95px;
     text-align: center;
     color: white;
 }
+
 @media(max-width: 716px ), (max-height: 729px){
     .header-img{
         margin-top: calc(50vh - 180px);
